@@ -146,7 +146,7 @@ export default ({ children }) => {
         <nav>
           <Link href="/">
             <a>
-              <h1>Dealogy</h1>
+              <h1>Template</h1>
             </a>
           </Link>
           <div>
