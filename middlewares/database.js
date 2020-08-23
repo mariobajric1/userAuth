@@ -1,6 +1,6 @@
 import { MongoClient } from 'mongodb';
 
-const client = new MongoClient('mongodb+srv://dmcnulty:dmcnulty@dealogy.zi0bv.mongodb.net/Dealogy', {
+const client = new MongoClient('Mongo URI', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
