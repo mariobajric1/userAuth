@@ -1,12 +1,12 @@
 {
-  "name": "dealogy",
+  "name": "Template",
   "version": 2,
   "build": {
     "env": {
-      "MONGODB_URI": "mongodb+srv://dmcnulty:dmcnulty@dealogy.zi0bv.mongodb.net/Dealogy",
-      "DB_NAME": "Dealogy",
-      "EMAIL_FROM": "mariobajric1@gmail.com",
-      "WEB_URI": "https://dealogyapp.vercel.app",
+      "MONGODB_URI": "mongouri",
+      "DB_NAME": "dbname",
+      "EMAIL_FROM": "email",
+      "WEB_URI": "weburi",
       "SESSION_SECRET": "keyboard cat",
       "USING_SECRETS": "Consider using Zeit Now Secrets instead."
     }
