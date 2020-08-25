@@ -1,6 +1,6 @@
 **DB isn't set up to run on Vercel just yet, TO RUN LOCALLY:
 
-<h3>git clone https://github.com/mariobajric1/_dealogy.git</h3>
+<h3>git clone https://github.com/mariobajric1/userAuth.git</h3>
 
 <h3>npm install</h3>
 
